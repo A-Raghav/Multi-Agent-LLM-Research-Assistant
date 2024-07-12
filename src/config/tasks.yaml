@@ -1,0 +1,32 @@
+research:
+  description: >
+    Conduct thorough research on {research_topic}, gathering data, and relevant
+    information to form a strong foundation for the {research_paper_section} of
+    the research paper.
+  expected_output: >
+    A comprehensive collection of data and information on {research_topic}, including
+    key insights and references that will be used to write the {research_paper_section}.
+  async_execution: false
+
+writing:
+  description: >
+    Write a well-structured and coherent {research_paper_section} based on the
+    research conducted on {research_topic}. Ensure clarity, conciseness, and adherence
+    to academic writing standards.
+  expected_output: >
+    A complete draft of the {research_paper_section} that clearly presents the research
+    findings on {research_topic}, with appropriate citations and academic rigor.
+  async_execution: false
+
+reviewing_and_final_draft:
+  description: >
+    Review the {research_paper_section} for accuracy, coherence, and academic rigor.
+    Provide constructive feedback and make necessary revisions to ensure the section
+    meets high academic standards. Prepare the final draft for submission.
+  expected_output: >
+    A thoroughly reviewed and polished {research_paper_section} that meets the highest
+    standards of academic excellence, ready for inclusion in the final research paper
+    on {research_topic}. This should not be more than 1 page. Prepare everything in 
+    a markdown format. Avoid any subheaders. Keep the introduction in the format
+    of a typical research paper. Cite the reference URLs within the text in markdown.
+  async_execution: false
