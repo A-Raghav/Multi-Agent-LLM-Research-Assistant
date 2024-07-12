@@ -17,7 +17,7 @@ Add the required environment variables for LLM in the `.env` in root -
 Then, in `main.py`, change the `research_topic` and `research_paper_section` as per your requirement, then run `main.py` - <br>
 ```python main.py```
 
-Once the agent execution is completed (usually takes ~1 min), the results are populated in the `results.MD` file.
+Once the agent execution is completed (usually takes ~1 min), the results are populated in the `results.md` file.
 
 ### Author
 [Aseem Raghav](raghavaseem@gmail.com)
